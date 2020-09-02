@@ -11,6 +11,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DesignPatterns" target="1.5" />
+      <module name="mybatis-plus-demo" target="1.8" />
+      <module name="mybatis-plus-example" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
